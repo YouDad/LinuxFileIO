@@ -1,0 +1,2 @@
+chmod 400 _WritePermissionDeny
+chmod 200 _ReadPermissionDeny
