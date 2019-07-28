@@ -1,5 +1,5 @@
-# :page_facing_up:FileOperation:page_facing_up:
-针对C/C++的文件操作初级教程:yum:
+# :page_facing_up:LinuxFileIO:page_facing_up:
+针对Linux C的文件IO初级教程:yum:
 
 其实文件操作还是挺简单的，没有很多难的地方，更多的是记忆性内容:grin:
 
